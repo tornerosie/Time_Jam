@@ -87,3 +87,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# JetBrains Rider
+.idea/
+*.sln
+*.csproj
+
+# Avoid enforcing local editor preferences
+Config/DefaultEditorSettings.ini
