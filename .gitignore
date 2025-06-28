@@ -95,3 +95,4 @@ DerivedDataCache/*
 
 # Avoid enforcing local editor preferences
 Config/DefaultEditorSettings.ini
+Config/DefaultEngine.ini # so avoid re-enforceing my UDP messageing when the team pull updates on the future. 
