@@ -96,14 +96,3 @@ DerivedDataCache/*
 # Avoid enforcing local editor preferences
 Config/DefaultEditorSettings.ini
 Config/DefaultEngine.ini # so avoid re-enforceing my UDP messageing when the team pull updates on the future. 
-
-# Include plugin source and config, ignore only generated files
-# Ignore plugin Binaries and Intermediate (generated)
-Plugins/**/Binaries/
-Plugins/**/Intermediate/
-
-# DO NOT IGNORE the actual plugin code/config
-!Plugins/**/Source/
-!Plugins/**/Config/
-!Plugins/**/Resources/
-!Plugins/**/*.uplugin
