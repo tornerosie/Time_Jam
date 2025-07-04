@@ -1,18 +1,17 @@
-Image: Game/TopDown/Assets/Scenes/scene1.scene1
-(Omittable) Transition: string [ shake ]
-(Omittable) Duration: float
-- John
+$ BG {&/Game/TopDown/Assets/Scenes/Dark.Dark}
+$ Music {&/Game/TopDown/Assets/Music/Beginning.Beginning} 0.2
+- John 
     Wha-what happened? I'm... home? Why can't I remember how I got here? I was at the lab and then-
-- John
+- John 
     The lab!!
 - John
     The machine... it worked! I knew I was close but, I didn't expect to just be thrust into the temporal wave like that.
 - John	
-    I’m home... but, it feels different. The bedroom looks cleaner. Huh, even the wallpaper is pristine and not peeling off. It’s strange, I forgot the house could even look this nice.
+    I'm home... but, it feels different. The bedroom looks cleaner. Huh, even the wallpaper is pristine and not peeling off. It's strange, I forgot the house could even look this nice.
 - John
     "Pick up package!" Clea's handwriting. Wait, June 15th? But that's...
 - John
-    No no no no no. I need more time! Why did I get sent back to the day she dies?!
+    No no no no no. I need more time! Why did I get sent back to the day she dies?! 
 - John
     Everything's just as how I remember it being that day. Wow, this is... a lot.
 - John
@@ -20,47 +19,52 @@ Image: Game/TopDown/Assets/Scenes/scene1.scene1
 - Clea
     Morning handsome
 - Clea
-    Or should I say evening? You got home so late last night
+    Or should I say evening? You got home so late last night.
 - John
     I- You're here
 - Clea
-    Where else would I be? sigh You need to stop overworking yourself hon, its clearly weighing on you
+    Where else would I be? sigh... You need to stop overworking yourself hon, its clearly weighing on you
 - Clea
-    Case in point, you forgot to pick up the package from Lou’s on your way home last night.
+    Case in point, you forgot to pick up the package from Lou's on your way home last night.
 - John
     Oh no
 - Clea
-    Don't worry, I was just about to go pick it up. You better have come up with a grand ol apology when I get back mister
+    Don't worry, I was just about to go pick it up. You better have come up with a grand ol apology when I get back mister.
 - John
     No! You-you can't go!
 - Clea
     Huh?
 - John
-    You can't go because… uhh…
+    You can't go because... uhh...
 - John
     Because you'll die!!
 - Clea	
-    John? What's gotten into you today? Go back to bed, you must still be tired
+    John? What's gotten into you today? Go back to bed, you must still be tired.
 - Clea
-    'Kay, I'll be right back
+    'Kay, I'll be right back.
 - John
     Clea wait! Stop!
-- John
+- John  
     What the hell?
+ $ StopAllSounds 0.02
+ $ Music {&/Game/TopDown/Assets/Music/Don_t_Go_loop.Don_t_Go_loop} 0.2
 - John
-    What’s happening? Am I going crazy? Why won't it let me leave?!
+    What's happening? Am I going crazy? Why won't it let me leave?!
 - John
     Something's not right here. I need to look around the house.
+$ SFX {&/Game/TopDown/Assets/Sounds/FX_Interactables_Dog_01.FX_Interactables_Dog_01}
 - John
     Cooper! Oh man, I missed you boy! Where were you hiding?
-- Cooper
+$ Voice {&/Game/TopDown/Assets/Sounds/FX_Interactables_Dog_01.FX_Interactables_Dog_01}
+- Cooper 
     Woof! Woof woof woof!
 - John
     What, boy? You want me to open it?
+$ Voice {&/Game/TopDown/Assets/Sounds/FX_Interactables_Dog_01.FX_Interactables_Dog_01}
 - Cooper
     Woof!
 - John
-    This is… Clea’s Art room.
+    This is... Clea's Art room.
 - John
     She loved to paint. It's the one thing that made her feel at peace.
 - John
@@ -68,11 +72,11 @@ Image: Game/TopDown/Assets/Scenes/scene1.scene1
 - John
     Heh. I kind of envied how much time she spent locked in here creating her masterpieces.
 - John
-    Hmm. It feels like the room is missing something… like an incomplete memory
+    Hmm. It feels like the room is missing something... like an incomplete memory
 - John
     It feels emptier than I remember.
 - John
-    Clea loved writing in her journal. Maybe I can keep it in the Art room. I should find it— she must keep it somewhere in the bedroom.
+    Clea loved writing in her journal. Maybe I can keep it in the Art room. I should find it- she must keep it somewhere in the bedroom.
 - John
     Locked. Hmm. Where did she keep the key?
 - John
