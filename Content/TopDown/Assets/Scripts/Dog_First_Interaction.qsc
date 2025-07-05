@@ -1,0 +1,10 @@
+- John
+    Cooper! Oh man, I missed you boy! Where were you hiding?
+$ Voice {&/Game/TopDown/Assets/Sounds/FX_Interactables_Dog_01.FX_Interactables_Dog_01}
+- Cooper 
+    Woof! Woof woof woof!
+- John
+    What, boy? You want me to open it?
+$ Voice {&/Game/TopDown/Assets/Sounds/FX_Interactables_Dog_01.FX_Interactables_Dog_01}
+- Cooper
+    Woof!

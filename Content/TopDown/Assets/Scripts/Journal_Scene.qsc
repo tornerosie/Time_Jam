@@ -1,5 +1,10 @@
+$ BG {&/Game/TopDown/Assets/Scenes/Dark.Dark}
+$ Music {&/Game/TopDown/Assets/Music/Loss2_Low.Loss2_Low} 0.1
 - John
     I know I shouldn't, but I need to see what she wrote.
+$ SFX {&/Game/TopDown/Assets/Sounds/FX_Interactables_Book_01.FX_Interactables_Book_01}
+$ BG {&/Game/TopDown/Assets/Scenes/Journal.Journal} fade 0.5
+$ Music {&/Game/TopDown/Assets/Music/Loss2_Low.Loss2_Low} 0.1
 - Clea
     June 13th. John's working late again. I know what he's doing it important, but I can't help but worry about him.
 - Clea
@@ -9,4 +14,4 @@
 - Clea
     I really hope we can go away somewhere together. Just me and him.
 - John
-    Clea…forgive me...
+    Clea...
